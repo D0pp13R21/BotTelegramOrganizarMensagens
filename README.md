@@ -21,7 +21,7 @@ Este é um bot para o Telegram que organiza mensagens com base em códigos espec
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/D0pp13R21/BotTelegramOrganizarMensagens
 
 2. Instale as dependências:
 
